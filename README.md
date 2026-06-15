@@ -159,3 +159,8 @@ streamlit run app.py
 *   **Offline Operation**: While embeddings generation is local, final text synthesis and ticket generation require active API connections.
 *   **Workstation Latency**: First-time loading of the `SentenceTransformers` model (`all-MiniLM-L6-v2`) requires downloading a 90MB file.
 *   **Language support**: Ingestion logic is optimized for English Markdown syntax. Multi-lingual structural documents may require alternate tokenizer models.
+---
+## 10. Demo video 
+use the following link for demo
+
+https://drive.google.com/file/d/1N56CeIrp5HlCsD2pDbpBKcyzB7Slowdc/view?usp=drivesdk
